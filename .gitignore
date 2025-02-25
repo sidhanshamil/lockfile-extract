@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+.lock
+output.json
+output.csv
+package-lock.json
+lockfile_extract.egg-info
